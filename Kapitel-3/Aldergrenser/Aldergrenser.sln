@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractivStory", "InteractivStory.csproj", "{06377BDA-880F-4665-9BF6-F1ACC15F6EFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aldergrenser", "Aldergrenser.csproj", "{B39CD955-7CE5-4687-8098-CAAD6F295286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06377BDA-880F-4665-9BF6-F1ACC15F6EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06377BDA-880F-4665-9BF6-F1ACC15F6EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06377BDA-880F-4665-9BF6-F1ACC15F6EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06377BDA-880F-4665-9BF6-F1ACC15F6EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39CD955-7CE5-4687-8098-CAAD6F295286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39CD955-7CE5-4687-8098-CAAD6F295286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39CD955-7CE5-4687-8098-CAAD6F295286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39CD955-7CE5-4687-8098-CAAD6F295286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E0B7BD5E-6AAB-4B0D-ABC6-8D10B422E9E4}
+		SolutionGuid = {0F9D7246-94E8-4F49-A9BD-E22B2AF4A5A2}
 	EndGlobalSection
 EndGlobal
